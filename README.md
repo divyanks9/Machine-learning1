@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python, c/c++**
 
-- 📫 How to reach me **linkedin.com/in/aniruddha-singh-gaharwar-784583292**
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
