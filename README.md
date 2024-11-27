@@ -1,7 +1,7 @@
 ## Machine-learning
 
 ![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1380)
-<h1 align="center">Hi 👋, I'm Aniruddha singh Gaharwar</h1>
+<h1 align="center">Hi 👋, I'm Divyank singh parihar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
